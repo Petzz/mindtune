@@ -4,7 +4,10 @@ import './App.css';
 
 function Hello() {
     return (
-        <p>this is demo application of root</p>
+        <div>
+            <p>paragragh</p>
+            <h1>header tag</h1>
+        </div>
     );
 }
 
