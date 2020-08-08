@@ -8,7 +8,7 @@ import Hello from './Hello';
 
 ReactDOM.render(
 
-  <App />,
+  <Hello />,
   document.getElementById('root')
 );
 
